@@ -1,27 +1,42 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Evil",
+        "link": "https://www.youtube.com/channel/UCpYR5IK4cjD8jz4ow-oNuJw"
     },
     {
-        "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "role": "owner",
+        "name": "Mystikl",
+        "link": "https://www.youtube.com/@lMystikl"
+    },
+    {
+        "role": "owner",
+        "name": "Tanginess",
+        "link": "https://www.youtube.com/channel/UCMtN24VDa4x5OfENd6zMxXQ"
     },
     {
         "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Asteria.",
+        "link": "https://www.youtube.com/@Asteriiiaa"
     },
     {
-        "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "role": "helper",
+        "name": "Hydraniac",
+        "link": "https://www.youtube.com/channel/UC5AUz9RpYbFygEgg7pQ8CFg"
+    },
+    {
+        "role": "helper",
+        "name": "Poke Zach",
+        "link": "https://youtube.com/@LookAtThisHumongousStick?si=QWtWuTdiLrwwqDOm"
+    },
+    {
+        "role": "helper",
+        "name": "Xeronius",
+        "link": "https://www.youtube.com/@Xeronius_"
     },
     {
         "role": "dev",
-        "name": "List Coder",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "sphericle",
+        "link": "https://www.youtube.com/@zsphericle"
     }
 ]
