@@ -8,7 +8,6 @@
     "percentToQualify": 100,
     "song": "",
     "records": [
-<<<<<<< HEAD
         {
             "user": "1GMitzy",
             "link": "https://www.youtube.com/watch?v=Ap9T8r2w0Cg",
@@ -19,8 +18,5 @@
             "link": "https://www.youtube.com/watch?v=AnZUb5S3q_8",
             "percent": 100
         }
-=======
-
->>>>>>> 7d8e88f401276d3c86de9af953f40e9ed7d9ac32
     ]
 }
