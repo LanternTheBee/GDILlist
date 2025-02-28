@@ -1,6 +1,6 @@
 # Written by ByteLaw
 # This script will automatically make files for records on pointercrate that are still on the list
-# WARNING - IT WILL DELETE FILES FOR LIST LEVELS AND REWRITE _list.json WITHOUT ANY OTHER LEVELS!
+# WARNING - IT WILL REWRITE FILES FOR LIST LEVELS AND REWRITE _list.json WITHOUT ANY OTHER LEVELS!
 
 import requests
 import time
