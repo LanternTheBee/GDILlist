@@ -1,0 +1,69 @@
+{
+    "id": 52919433,
+    "name": "Arctic Lights",
+    "author": "Metalface221",
+    "creators": [],
+    "verifier": "AedenGMD",
+    "verification": "https://www.youtube.com/watch?v=boQQnImw8E0&ab_channel=Aeden",
+    "percentToQualify": 100,
+    "song": "Teminite & Whales - Mayhem",
+    "records": [
+        {
+            "user": "cotj",
+            "link": "https://www.youtube.com/watch?v=PEpRJDZkw6U&ab_channel=cotj",
+            "percent": 100,
+            "hz": 240,
+            "mobile": false
+        },
+        {
+            "user": "limboyeti",
+            "link": "https://www.youtube.com/watch?v=E_VZ_8dUBdA",
+            "percent": 100,
+            "hz": 240,
+            "mobile": false
+        },
+        {
+            "user": "AmitS",
+            "link": "https://www.youtube.com/watch?v=AktXInAHnZY",
+            "percent": 100,
+            "hz": 240,
+            "mobile": false
+        },
+        {
+            "user": "CheezySF",
+            "link": "https://www.youtube.com/watch?v=JD2T5FuHDiU&ab_channel=cheezysf",
+            "percent": 100,
+            "hz": 240,
+            "mobile": false
+        },
+        {
+            "user": "BarGames",
+            "link": "https://www.youtube.com/watch?v=Sgt3rJpkxOY&ab_channel=BarGames",
+            "percent": 100,
+            "hz": 240,
+            "mobile": false
+        },
+        {
+            "user": "Syrcx",
+            "link": "https://www.youtube.com/watch?v=rgaLFEEfzF8&ab_channel=Syrcx",
+            "percent": 100,
+            "hz": 240,
+            "mobile": false
+        },
+        {
+            "user": "IDAN100G",
+            "link": "https://www.youtube.com/watch?v=UAf5ri2YSXE&ab_channel=IDAN100G",
+            "percent": 100,
+            "hz": 240,
+            "mobile": false
+        },
+        {
+            "user": "DanielTMOG",
+            "link": "https://www.youtube.com/watch?v=CECdrUro32Y&ab_channel=DanielTMOG",
+            "percent": 100,
+            "hz": 240,
+            "mobile": false
+        }
+
+    ]
+}
