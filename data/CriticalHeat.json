@@ -9,7 +9,11 @@
     "song": "KaixoMusic - Alacrit (Original Mix)",
     "records": [
         {
-          
+            "user": "ByteLaw",
+            "link": "https://www.youtube.com/watch?v=EtpIHfhM97M&ab_channel=ByteLaw",
+            "percent": 100,
+            "hz": 240,
+            "mobile": false
         }
     ]
 }

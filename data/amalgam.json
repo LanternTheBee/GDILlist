@@ -1,15 +1,19 @@
 {
-    "id": 72744364,
-    "name": "Hard Machine",
-    "author": "komp",
+    "id": 95675702,
+    "name": "Amalgam",
+    "author": "XLSpiral",
     "creators": [],
-    "verifier": "Itorio",
-    "verification": "https://www.youtube.com/watch?v=422fQPP86o8&ab_channel=ItorioGD",
+    "verifier": "ByteLaw",
+    "verification": "https://www.youtube.com/watch?v=BijMaxBT52k&ab_channel=ByteLaw",
     "percentToQualify": 100,
-    "song": "Waterflame - Time Machine",
+    "song": "Teminite & Whales - Mayhem",
     "records": [
         {
-
+            "user": "Syrcx",
+            "link": "https://www.youtube.com/watch?v=j5rSVwOa0f0&ab_channel=Syrcx",
+            "percent": 100,
+            "hz": 240,
+            "mobile": false
         }
     ]
 }
