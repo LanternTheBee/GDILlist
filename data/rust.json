@@ -1,15 +1,22 @@
 {
-    "id": 72744364,
-    "name": "Hard Machine",
-    "author": "komp",
+    "id": 71912451,
+    "name": "RUST",
+    "author": "neigefeu",
     "creators": [],
-    "verifier": "Itorio",
-    "verification": "https://www.youtube.com/watch?v=422fQPP86o8&ab_channel=ItorioGD",
+    "verifier": "cheezysf",
+    "verification": "https://www.youtube.com/watch?v=X0NxbX6Pa5E",
     "percentToQualify": 100,
-    "song": "Waterflame - Time Machine",
+    "song": "",
     "records": [
         {
-
+            "user": "1GMitzy",
+            "link": "https://www.youtube.com/watch?v=Ap9T8r2w0Cg",
+            "percent": 100
+        },
+        {
+            "user": "BarGames",
+            "link": "https://www.youtube.com/watch?v=AnZUb5S3q_8",
+            "percent": 100
         }
     ]
 }
