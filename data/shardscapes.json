@@ -1,13 +1,22 @@
 {
-    "id": 72744364,
-    "name": "Hard Machine",
-    "author": "komp",
+    "id": 79997992,
+    "name": "Shardscapes",
+    "author": "ItzKiba",
     "creators": [],
-    "verifier": "Itorio",
-    "verification": "https://www.youtube.com/watch?v=422fQPP86o8&ab_channel=ItorioGD",
+    "verifier": "GToast",
+    "verification": "https://www.youtube.com/watch?v=K-1QlcbF1Sg",
     "percentToQualify": 100,
-    "song": "Waterflame - Time Machine",
+    "song": "",
     "records": [
-
+        {
+            "user": "Duv",
+            "link": "https://www.youtube.com/watch?v=VtLiMq8dImI",
+            "percent": 100
+        },
+        {
+            "user": "Syrcx",
+            "link": "https://www.youtube.com/watch?v=olU5SO5ZAnk",
+            "percent": 100
+        }
     ]
 }

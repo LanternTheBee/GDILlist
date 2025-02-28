@@ -8,6 +8,10 @@
     "percentToQualify": 100,
     "song": "",
     "records": [
-
+        {
+            "user": "k3ond",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100
+        }
     ]
 }
