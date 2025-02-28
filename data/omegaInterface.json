@@ -1,0 +1,26 @@
+{
+    "id": 68654380,
+    "name": "Omega Interface",
+    "author": "Platnuu",
+    "creators": [],
+    "verifier": "1GMitzy",
+    "verification": "https://www.youtube.com/watch?v=M047FrrwPdg&ab_channel=1GMitzy",
+    "percentToQualify": 100,
+    "song": "Creo - Sphere",
+    "records": [
+        {
+            "user": "CheezySF",
+            "link": "https://www.youtube.com/watch?v=a0wOPUGIOSo&ab_channel=cheezysf",
+            "percent": 100,
+            "hz": 240,
+            "mobile": false
+        },
+        {
+            "user": "BarGames",
+            "link": "https://www.youtube.com/watch?v=YJahW-IouEg&ab_channel=BarGames",
+            "percent": 100,
+            "hz": 240,
+            "mobile": false
+        }
+    ]
+}

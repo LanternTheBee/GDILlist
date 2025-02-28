@@ -1,0 +1,19 @@
+{
+    "id": 84507862,
+    "name": "No Jokes",
+    "author": "TheParadoxTeam",
+    "creators": [],
+    "verifier": "CheezySF",
+    "verification": "https://www.youtube.com/watch?v=AlG6F2smegw&ab_channel=cheezysf",
+    "percentToQualify": 100,
+    "song": "Creo - Sphere",
+    "records": [
+        {
+            "user": "abb2k",
+            "link": "https://www.youtube.com/watch?v=d3QvHdxvif8&ab_channel=abb2k",
+            "percent": 100,
+            "hz": 240,
+            "mobile": false
+        }
+    ]
+}

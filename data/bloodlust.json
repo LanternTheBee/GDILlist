@@ -1,0 +1,54 @@
+{
+    "id": 42584142,
+    "name": "Bloodlust",
+    "author": "Knobbelboy",
+    "creators": [],
+    "verifier": "1GMitzy",
+    "verification": "https://www.youtube.com/watch?v=ctgTWx9uffY&ab_channel=1GMitzy",
+    "percentToQualify": 100,
+    "song": "Creo - Sphere",
+    "records": [
+        {
+            "user": "CheezySF",
+            "link": "https://www.youtube.com/watch?v=_sKxv4rI7H4&ab_channel=cheezysf",
+            "percent": 100,
+            "hz": 240,
+            "mobile": false
+        },
+        {
+            "user": "k3ond",
+            "link": "https://www.youtube.com/shorts/KORjxz9dnDw",
+            "percent": 100,
+            "hz": 240,
+            "mobile": false
+        },
+        {
+            "user": "BarGames",
+            "link": "https://www.youtube.com/watch?v=IjhybAvVUaU&ab_channel=BarGames",
+            "percent": 100,
+            "hz": 240,
+            "mobile": false
+        },
+        {
+            "user": "Syrcx",
+            "link": "https://www.youtube.com/watch?v=HQzfzGBpCUo&ab_channel=Syrcx",
+            "percent": 100,
+            "hz": 240,
+            "mobile": false
+        },
+        {
+            "user": "ByteLaw",
+            "link": "https://www.youtube.com/watch?v=t1ADyWioEnE&ab_channel=ByteLaw",
+            "percent": 100,
+            "hz": 240,
+            "mobile": false
+        },
+        {
+            "user": "DanielTMOG",
+            "link": "https://www.youtube.com/watch?v=LIk41pT5U3Q&ab_channel=DanielTMOG",
+            "percent": 100,
+            "hz": 240,
+            "mobile": false
+        }
+    ]
+}
