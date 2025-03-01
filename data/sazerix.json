@@ -1,0 +1,22 @@
+{
+    "id": 86787878,
+    "name": "Sazerix",
+    "author": "Zeptrus",
+    "creators": [],
+    "verifier": "BarGames",
+    "verification": "https://www.youtube.com/watch?v=yA4En6UEgFM",
+    "percentToQualify": 100,
+    "song": "",
+    "records": [
+        {
+            "user": "Abb2k",
+            "link": "https://www.youtube.com/watch?v=q4AKFFRc4Xs",
+            "percent": 100
+        },
+        {
+            "user": "Lantern",
+            "link": "https://www.youtube.com/watch?v=ILPjKyF9aNQ",
+            "percent": 100
+        }
+    ]
+}
