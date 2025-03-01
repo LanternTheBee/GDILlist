@@ -1,12 +1,22 @@
 [
     {
         "role": "owner",
-        "name": "Syrcx",
-        "link": "https://www.youtube.com/channel/UCQwf8IbtopAicgp2_RzzIBw"
+        "name": "Ofirk",
+        "link": "https://www.youtube.com/@ofirk3435"
     },
-        {
+    {
         "role": "owner",
         "name": "Lantern",
         "link": "https://www.youtube.com/channel/UCPYdI2jS0RYSPoebXC4tVZg"
+    },
+    {
+        "role": "owner",
+        "name": "ByteLaw",
+        "link": "https://www.youtube.com/channel/UCegY85BE3ebUjSJ78jlR1aA"
+    },
+    {
+        "role": "owner",
+        "name": "DanielTMOG",
+        "link": "https://www.youtube.com/@danieltmog5721"
     }
 ]

@@ -1,42 +1,22 @@
 [
     {
-        "role": "owner",
-        "name": "Evil",
-        "link": "https://www.youtube.com/channel/UCpYR5IK4cjD8jz4ow-oNuJw"
+        "role": "Owner",
+        "name": "Ofirk",
+        "link": "https://www.youtube.com/@ofirk3435"
     },
     {
-        "role": "owner",
-        "name": "Mystikl",
-        "link": "https://www.youtube.com/@lMystikl"
+        "role": "Owner",
+        "name": "Lantern",
+        "link": "https://www.youtube.com/channel/UCPYdI2jS0RYSPoebXC4tVZg"
     },
     {
-        "role": "owner",
-        "name": "Tanginess",
-        "link": "https://www.youtube.com/channel/UCMtN24VDa4x5OfENd6zMxXQ"
+        "role": "Helper",
+        "name": "ByteLaw",
+        "link": "https://www.youtube.com/channel/UCegY85BE3ebUjSJ78jlR1aA"
     },
     {
-        "role": "helper",
-        "name": "Asteria.",
-        "link": "https://www.youtube.com/@Asteriiiaa"
-    },
-    {
-        "role": "helper",
-        "name": "Hydraniac",
-        "link": "https://www.youtube.com/channel/UC5AUz9RpYbFygEgg7pQ8CFg"
-    },
-    {
-        "role": "helper",
-        "name": "Poke Zach",
-        "link": "https://youtube.com/@LookAtThisHumongousStick?si=QWtWuTdiLrwwqDOm"
-    },
-    {
-        "role": "helper",
-        "name": "Xeronius",
-        "link": "https://www.youtube.com/@Xeronius_"
-    },
-    {
-        "role": "dev",
-        "name": "sphericle",
-        "link": "https://www.youtube.com/@zsphericle"
+        "role": "Helper",
+        "name": "DanielTMOG",
+        "link": "https://www.youtube.com/@danieltmog5721"
     }
 ]
