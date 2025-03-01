@@ -1,0 +1,26 @@
+{
+    "id": 60740290,
+    "name": "EndLevel",
+    "author": "EndLevel",
+    "creators": [],
+    "verifier": "AedenGMD",
+    "verification": "https://www.youtube.com/watch?v=DErjQSYmnn0&ab_channel=Aeden",
+    "percentToQualify": 100,
+    "song": "Creo - Sphere",
+    "records": [
+        {
+            "user": "jmdag",
+            "link": "https://www.youtube.com/watch?v=00OfpMqzZ5Q&ab_channel=jmdag",
+            "percent": 100,
+            "hz": 240,
+            "mobile": false
+        },
+        {
+            "user": "CheezySF",
+            "link": "https://www.youtube.com/watch?v=9FwOoOH8Akc&ab_channel=cheezysf",
+            "percent": 100,
+            "hz": 240,
+            "mobile": false
+        }
+    ]
+}

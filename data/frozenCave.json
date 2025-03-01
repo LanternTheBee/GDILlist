@@ -1,0 +1,19 @@
+{
+    "id": 68908396,
+    "name": "Frozen Cave",
+    "author": "TrueParadoxTeam",
+    "creators": [],
+    "verifier": "Lantern",
+    "verification": "https://www.youtube.com/watch?v=hkjyXv0os5w&ab_channel=lan2rn",
+    "percentToQualify": 100,
+    "song": "Creo - Sphere",
+    "records": [
+        {
+            "user": "BarGames",
+            "link": "https://www.youtube.com/watch?v=-pEIRwyXpBU&ab_channel=BarGames",
+            "percent": 100,
+            "hz": 240,
+            "mobile": false
+        }
+    ]
+}
