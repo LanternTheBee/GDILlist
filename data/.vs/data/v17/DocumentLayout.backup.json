@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\renevant.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:renevant.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\_packs.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_packs.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -223,6 +219,10 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SAMPLELEVEL2.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\renevant.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:renevant.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\neutra.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:neutra.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -270,11 +270,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "_packs.json",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\_packs.json",
               "RelativeDocumentMoniker": "_packs.json",
@@ -287,140 +287,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_editors.json",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\_editors.json",
-              "RelativeDocumentMoniker": "_editors.json",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\_editors.json",
-              "RelativeToolTip": "_editors.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-01T18:01:14.138Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_level template",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\_level template",
-              "RelativeDocumentMoniker": "_level template",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\_level template",
-              "RelativeToolTip": "_level template",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-03-01T18:00:52.152Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_staff.json",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\_staff.json",
-              "RelativeDocumentMoniker": "_staff.json",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\_staff.json",
-              "RelativeToolTip": "_staff.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-01T18:00:47.185Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "noJokes.json",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\noJokes.json",
-              "RelativeDocumentMoniker": "noJokes.json",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\noJokes.json",
-              "RelativeToolTip": "noJokes.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-01T17:37:51.272Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "aquaticAuroras.json",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\aquaticAuroras.json",
-              "RelativeDocumentMoniker": "aquaticAuroras.json",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\aquaticAuroras.json",
-              "RelativeToolTip": "aquaticAuroras.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-01T17:37:35.033Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "gamma.json",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\gamma.json",
-              "RelativeDocumentMoniker": "gamma.json",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\gamma.json",
-              "RelativeToolTip": "gamma.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-01T17:36:56.754Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "arcticLights.json",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\arcticLights.json",
-              "RelativeDocumentMoniker": "arcticLights.json",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\arcticLights.json",
-              "RelativeToolTip": "arcticLights.json",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-01T17:36:20.155Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ploink.json",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\ploink.json",
-              "RelativeDocumentMoniker": "ploink.json",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\ploink.json",
-              "RelativeToolTip": "ploink.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-01T17:32:21.998Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "knightsOfThunder.json",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\knightsOfThunder.json",
-              "RelativeDocumentMoniker": "knightsOfThunder.json",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\knightsOfThunder.json",
-              "RelativeToolTip": "knightsOfThunder.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-01T17:30:27.55Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "plasmaPulseFinale.json",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\plasmaPulseFinale.json",
-              "RelativeDocumentMoniker": "plasmaPulseFinale.json",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\plasmaPulseFinale.json",
-              "RelativeToolTip": "plasmaPulseFinale.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-01T17:11:19.149Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "renevant.json",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\renevant.json",
-              "RelativeDocumentMoniker": "renevant.json",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\renevant.json",
-              "RelativeToolTip": "renevant.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-28T12:45:26.342Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "_list.json",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\_list.json",
               "RelativeDocumentMoniker": "_list.json",
@@ -428,11 +295,142 @@
               "RelativeToolTip": "_list.json",
               "ViewState": "AgIAADMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-01T18:01:15.009Z"
+              "WhenOpened": "2025-03-01T18:01:15.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_editors.json",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\_editors.json",
+              "RelativeDocumentMoniker": "_editors.json",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\_editors.json",
+              "RelativeToolTip": "_editors.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-01T18:01:14.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_level template",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\_level template",
+              "RelativeDocumentMoniker": "_level template",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\_level template",
+              "RelativeToolTip": "_level template",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-01T18:00:52.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_staff.json",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\_staff.json",
+              "RelativeDocumentMoniker": "_staff.json",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\_staff.json",
+              "RelativeToolTip": "_staff.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-01T18:00:47.185Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "noJokes.json",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\noJokes.json",
+              "RelativeDocumentMoniker": "noJokes.json",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\noJokes.json",
+              "RelativeToolTip": "noJokes.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-01T17:37:51.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "aquaticAuroras.json",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\aquaticAuroras.json",
+              "RelativeDocumentMoniker": "aquaticAuroras.json",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\aquaticAuroras.json",
+              "RelativeToolTip": "aquaticAuroras.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-01T17:37:35.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "gamma.json",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\gamma.json",
+              "RelativeDocumentMoniker": "gamma.json",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\gamma.json",
+              "RelativeToolTip": "gamma.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-01T17:36:56.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "arcticLights.json",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\arcticLights.json",
+              "RelativeDocumentMoniker": "arcticLights.json",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\arcticLights.json",
+              "RelativeToolTip": "arcticLights.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-01T17:36:20.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ploink.json",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\ploink.json",
+              "RelativeDocumentMoniker": "ploink.json",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\ploink.json",
+              "RelativeToolTip": "ploink.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-01T17:32:21.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "knightsOfThunder.json",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\knightsOfThunder.json",
+              "RelativeDocumentMoniker": "knightsOfThunder.json",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\knightsOfThunder.json",
+              "RelativeToolTip": "knightsOfThunder.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-01T17:30:27.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "plasmaPulseFinale.json",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\plasmaPulseFinale.json",
+              "RelativeDocumentMoniker": "plasmaPulseFinale.json",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\plasmaPulseFinale.json",
+              "RelativeToolTip": "plasmaPulseFinale.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-01T17:11:19.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "widestep.json",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\widestep.json",
               "RelativeDocumentMoniker": "widestep.json",
@@ -440,11 +438,12 @@
               "RelativeToolTip": "widestep.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-28T13:06:42.054Z"
+              "WhenOpened": "2025-02-28T13:06:42.054Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "_challengeList.json",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\_challengeList.json",
               "RelativeDocumentMoniker": "_challengeList.json",
@@ -452,11 +451,12 @@
               "RelativeToolTip": "_challengeList.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-28T13:06:46.695Z"
+              "WhenOpened": "2025-02-28T13:06:46.695Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 20,
               "Title": "atomicCannon.json",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\atomicCannon.json",
               "RelativeDocumentMoniker": "atomicCannon.json",
@@ -464,11 +464,12 @@
               "RelativeToolTip": "atomicCannon.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-01T17:11:27.265Z"
+              "WhenOpened": "2025-03-01T17:11:27.265Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "terminalRampancy.json",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\terminalRampancy.json",
               "RelativeDocumentMoniker": "terminalRampancy.json",
@@ -476,11 +477,12 @@
               "RelativeToolTip": "terminalRampancy.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-28T13:06:27.473Z"
+              "WhenOpened": "2025-02-28T13:06:27.473Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "firework.json",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\firework.json",
               "RelativeDocumentMoniker": "firework.json",
@@ -488,11 +490,12 @@
               "RelativeToolTip": "firework.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-28T12:15:16.56Z"
+              "WhenOpened": "2025-02-28T12:15:16.56Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 22,
               "Title": "pagoda.json",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\pagoda.json",
               "RelativeDocumentMoniker": "pagoda.json",
@@ -500,11 +503,12 @@
               "RelativeToolTip": "pagoda.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-01T17:06:30.573Z"
+              "WhenOpened": "2025-03-01T17:06:30.573Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 23,
               "Title": "mewnei.json",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\mewnei.json",
               "RelativeDocumentMoniker": "mewnei.json",
@@ -512,11 +516,12 @@
               "RelativeToolTip": "mewnei.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-01T17:00:00.075Z"
+              "WhenOpened": "2025-03-01T17:00:00.075Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 26,
               "Title": "sigma.json",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\sigma.json",
               "RelativeDocumentMoniker": "sigma.json",
@@ -524,11 +529,12 @@
               "RelativeToolTip": "sigma.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-01T16:57:46.994Z"
+              "WhenOpened": "2025-03-01T16:57:46.994Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 28,
               "Title": "congregation.json",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\congregation.json",
               "RelativeDocumentMoniker": "congregation.json",
@@ -536,11 +542,12 @@
               "RelativeToolTip": "congregation.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-01T16:55:19.605Z"
+              "WhenOpened": "2025-03-01T16:55:19.605Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 24,
               "Title": "terminux.json",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\terminux.json",
               "RelativeDocumentMoniker": "terminux.json",
@@ -548,11 +555,12 @@
               "RelativeToolTip": "terminux.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-01T16:45:22.953Z"
+              "WhenOpened": "2025-03-01T16:45:22.953Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "climax.json",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\climax.json",
               "RelativeDocumentMoniker": "climax.json",
@@ -560,11 +568,12 @@
               "RelativeToolTip": "climax.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-28T13:05:19.893Z"
+              "WhenOpened": "2025-02-28T13:05:19.893Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 29,
               "Title": "fog.json",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\fog.json",
               "RelativeDocumentMoniker": "fog.json",
@@ -572,11 +581,12 @@
               "RelativeToolTip": "fog.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-01T16:50:22.466Z"
+              "WhenOpened": "2025-03-01T16:50:22.466Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 14,
               "Title": "zodiac.json",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\zodiac.json",
               "RelativeDocumentMoniker": "zodiac.json",
@@ -584,11 +594,12 @@
               "RelativeToolTip": "zodiac.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-28T13:06:44.348Z"
+              "WhenOpened": "2025-02-28T13:06:44.348Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 15,
               "Title": "cobwebs.json",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\cobwebs.json",
               "RelativeDocumentMoniker": "cobwebs.json",
@@ -596,11 +607,12 @@
               "RelativeToolTip": "cobwebs.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-28T13:05:23.057Z"
+              "WhenOpened": "2025-02-28T13:05:23.057Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 30,
               "Title": "sazerix.json",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\sazerix.json",
               "RelativeDocumentMoniker": "sazerix.json",
@@ -608,11 +620,12 @@
               "RelativeToolTip": "sazerix.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-01T16:52:40.052Z"
+              "WhenOpened": "2025-03-01T16:52:40.052Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 31,
               "Title": "citra.json",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\citra.json",
               "RelativeDocumentMoniker": "citra.json",
@@ -620,11 +633,12 @@
               "RelativeToolTip": "citra.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-01T16:47:01.274Z"
+              "WhenOpened": "2025-03-01T16:47:01.274Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 18,
               "Title": "JudgementKnights.json",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\JudgementKnights.json",
               "RelativeDocumentMoniker": "JudgementKnights.json",
@@ -632,11 +646,12 @@
               "RelativeToolTip": "JudgementKnights.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-28T13:05:53.733Z"
+              "WhenOpened": "2025-02-28T13:05:53.733Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 33,
               "Title": "jessePinkman.json",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\jessePinkman.json",
               "RelativeDocumentMoniker": "jessePinkman.json",
@@ -644,11 +659,12 @@
               "RelativeToolTip": "jessePinkman.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-01T16:43:17.05Z"
+              "WhenOpened": "2025-03-01T16:43:17.05Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 32,
               "Title": "nhelv.json",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\nhelv.json",
               "RelativeDocumentMoniker": "nhelv.json",
@@ -656,11 +672,12 @@
               "RelativeToolTip": "nhelv.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-01T16:43:06.298Z"
+              "WhenOpened": "2025-03-01T16:43:06.298Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 36,
               "Title": "crimsonPlanet.json",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\crimsonPlanet.json",
               "RelativeDocumentMoniker": "crimsonPlanet.json",
@@ -672,7 +689,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 21,
               "Title": "oblivion.json",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\oblivion.json",
               "RelativeDocumentMoniker": "oblivion.json",
@@ -680,11 +697,12 @@
               "RelativeToolTip": "oblivion.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-28T13:06:01.493Z"
+              "WhenOpened": "2025-02-28T13:06:01.493Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 42,
               "Title": "cosmicCyclone.json",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\cosmicCyclone.json",
               "RelativeDocumentMoniker": "cosmicCyclone.json",
@@ -696,7 +714,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 41,
               "Title": "rust.json",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\rust.json",
               "RelativeDocumentMoniker": "rust.json",
@@ -708,7 +726,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 25,
               "Title": "SampleLevel1.json",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\SampleLevel1.json",
               "RelativeDocumentMoniker": "SampleLevel1.json",
@@ -716,11 +734,12 @@
               "RelativeToolTip": "SampleLevel1.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-28T12:49:24.122Z"
+              "WhenOpened": "2025-02-28T12:49:24.122Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 43,
               "Title": "cognition.json",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\cognition.json",
               "RelativeDocumentMoniker": "cognition.json",
@@ -732,7 +751,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 27,
               "Title": "conclusion.json",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\conclusion.json",
               "RelativeDocumentMoniker": "conclusion.json",
@@ -740,11 +759,12 @@
               "RelativeToolTip": "conclusion.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-28T13:05:30.383Z"
+              "WhenOpened": "2025-02-28T13:05:30.383Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 40,
               "Title": "lucidNightmares.json",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\lucidNightmares.json",
               "RelativeDocumentMoniker": "lucidNightmares.json",
@@ -756,7 +776,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 34,
               "Title": "amalgam.json",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\amalgam.json",
               "RelativeDocumentMoniker": "amalgam.json",
@@ -764,11 +784,12 @@
               "RelativeToolTip": "amalgam.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-28T13:05:11.756Z"
+              "WhenOpened": "2025-02-28T13:05:11.756Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 37,
               "Title": "escapeRoom.json",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\escapeRoom.json",
               "RelativeDocumentMoniker": "escapeRoom.json",
@@ -780,7 +801,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 39,
               "Title": "ragnarok.json",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\ragnarok.json",
               "RelativeDocumentMoniker": "ragnarok.json",
@@ -792,7 +813,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 44,
               "Title": "bpataMpaka.json",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\bpataMpaka.json",
               "RelativeDocumentMoniker": "bpataMpaka.json",
@@ -804,7 +825,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 35,
               "Title": "shimmer.json",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\shimmer.json",
               "RelativeDocumentMoniker": "shimmer.json",
@@ -812,11 +833,12 @@
               "RelativeToolTip": "shimmer.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-28T13:03:33.006Z"
+              "WhenOpened": "2025-02-28T13:03:33.006Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 38,
               "Title": "shardscapes.json",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\shardscapes.json",
               "RelativeDocumentMoniker": "shardscapes.json",
@@ -828,7 +850,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 45,
               "Title": "screamMachine.json",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\screamMachine.json",
               "RelativeDocumentMoniker": "screamMachine.json",
@@ -840,7 +862,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 46,
               "Title": "frostSpirit.json",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\frostSpirit.json",
               "RelativeDocumentMoniker": "frostSpirit.json",
@@ -852,7 +874,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 47,
               "Title": "promethean.json",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\promethean.json",
               "RelativeDocumentMoniker": "promethean.json",
@@ -864,7 +886,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 48,
               "Title": "walterWhite.json",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\walterWhite.json",
               "RelativeDocumentMoniker": "walterWhite.json",
@@ -876,7 +898,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 49,
               "Title": "verdantLandscape.json",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\verdantLandscape.json",
               "RelativeDocumentMoniker": "verdantLandscape.json",
@@ -888,7 +910,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 50,
               "Title": "theParoxysmOfRage.json",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\theParoxysmOfRage.json",
               "RelativeDocumentMoniker": "theParoxysmOfRage.json",
@@ -900,7 +922,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 51,
               "Title": "shukketsu.json",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\shukketsu.json",
               "RelativeDocumentMoniker": "shukketsu.json",
@@ -937,6 +959,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 54,
+              "Title": "renevant.json",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\renevant.json",
+              "RelativeDocumentMoniker": "renevant.json",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\renevant.json",
+              "RelativeToolTip": "renevant.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-28T12:45:26.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
               "Title": "SAMPLELEVEL2.json",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\SAMPLELEVEL2.json",
               "RelativeDocumentMoniker": "SAMPLELEVEL2.json",
@@ -948,7 +982,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 52,
               "Title": "Sample_Level_3.json",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\GDILlist\\data\\Sample_Level_3.json",
               "RelativeDocumentMoniker": "Sample_Level_3.json",
