@@ -101,9 +101,9 @@ for name, data in demons.items():
             "author": demonData["data"]["publisher"]["name"],
             "verifier": verifierRecord["playerName"],
             "verification": verifierRecord["video"],
-            "records": otherRecords,
             "percentToQualify": 100,
             "creators": [],
+            "records": otherRecords,
         }, indent=4))
         print("Wrote to " + path)
     currentListLength += 1
@@ -111,7 +111,12 @@ for name, data in demons.items():
 
 session.close()
 
-with open("data/_list.json", "w+") as listData:
-    listData.write(json.dumps(list(demons.keys()), indent=4))
+newDemons = list(demons.keys())
+currentDemons = []
+with open("data/_list.json", "r") as listData:
+    currentDemons.extend(json.loads(listData.read()))
+# check for lowest level in newDemons and if found in currentDemons remove everything above inclusive
+with open("data/_list.json", "w") as listData:
+    listData.write(json.dumps(newDemons, indent=4))
 
 print("Finished")
