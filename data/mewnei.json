@@ -8,6 +8,12 @@
     "percentToQualify": 100,
     "song": "",
     "records": [
-
+        {
+            "user": "DanielTMOG",
+            "link": "https://www.youtube.com/watch?v=X1HzXOIiplc&ab_channel=Mista_Blue",
+            "percent": 100,
+            "hz": 240,
+            "mobile": false
+        }
     ]
 }
