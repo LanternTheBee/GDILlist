@@ -21,6 +21,13 @@
             "percent": 100,
             "hz": 240,
             "mobile": false
+        },
+        {
+            "user": "BarGames",
+            "link": "https://www.youtube.com/watch?v=-B0vzvBMIhs&ab_channel=BarGames",
+            "percent": 100,
+            "hz": 240,
+            "mobile": false
         }
     ]
 }
