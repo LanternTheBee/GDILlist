@@ -49,6 +49,13 @@
             "percent": 100,
             "hz": 240,
             "mobile": false
+        },
+        {
+            "user": "MortallyChallenged",
+            "link": "https://www.youtube.com/watch?v=64EL9JrUTi8",
+            "percent": 100,
+            "hz": 240,
+            "mobile": false
         }
     ]
 }
