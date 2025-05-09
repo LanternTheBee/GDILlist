@@ -8,6 +8,10 @@
     "percentToQualify": 72,
     "song": "-ThunderZone v2-",
     "records": [
-
+        {
+            "user": "nok",
+            "link": "https://www.youtube.com/watch?v=ZoV-DYl82hQ&ab_channel=nok",
+            "percent": 93
+        }
     ]
 }
