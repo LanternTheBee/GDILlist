@@ -30,6 +30,14 @@
             "percent": 100,
             "hz": 240,
             "mobile": false
+        },
+
+        {
+            "user": "Ado",
+            "link": "https://youtu.be/Y8Ps95Tp_mY",
+            "percent": 100,
+            "hz": 240,
+            "mobile": false
         }
     ]
 }
