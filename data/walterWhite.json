@@ -8,6 +8,12 @@
     "percentToQualify": 65,
     "song": "BoomKitty - 1077",
     "records": [
-
+		{
+            "user": "ByteLaw",
+            "link": "https://www.youtube.com/watch?v=cnFctbGqsEc",
+            "percent": 71,
+            "hz": 240,
+            "mobile": false
+        }
     ]
 }
