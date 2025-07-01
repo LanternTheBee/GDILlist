@@ -8,6 +8,13 @@
     "percentToQualify": 100,
     "song": "",
     "records": [
+        {
+            "user": "Itorio",
+            "link": "https://youtu.be/7QgFLG6jgn8?si=byNPTgiWh6-Y_iBv",
+            "percent": 100,
+            "hz": 144,
+            "mobile": false
+        }
 
     ]
 }
