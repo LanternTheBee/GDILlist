@@ -8,6 +8,12 @@
     "percentToQualify": 100,
     "song": "xKore - Splatterhouse (WIP)",
     "records": [
-
+        {
+            "user": "ByteLaw",
+            "link": "https://youtu.be/T0VwjyFFoIo?si=0Ajd1m26jkdm_mGf",
+            "percent": 100,
+            "hz": 240,
+            "mobile": false
+        }
     ]
 }
