@@ -8,5 +8,10 @@
     "percentToQualify": 100,
     "song": "",
     "records": [
+        {
+            "user": "Itorio",
+            "link": "https://youtu.be/oG2PAMNnB6U?si=PzLUGy8giVrIyRUc",
+            "percent": 100
+        }
     ]
 }
