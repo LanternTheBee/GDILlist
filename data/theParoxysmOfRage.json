@@ -4,10 +4,15 @@
     "author": "Zacanaii",
     "creators": [],
     "verifier": "Syrcx",
-    "verification": "https://www.youtube.com/watch?v=E3eFnWSwK6k&ab_channel=Syrcx",
+    "verification": "https://www.youtube.com/watch?v=uTecix8apwQ",
     "percentToQualify": 100,
     "song": "Waterflame - -Control: Mind-",
     "records": [
-
+		{
+            "user": "ByteLaw",
+            "link": "https://youtu.be/EGkXL1UEWPo",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
