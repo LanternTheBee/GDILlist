@@ -28,6 +28,13 @@
             "percent": 100,
             "hz": 240,
             "mobile": false
+        },
+        {
+            "user": "ByteLaw",
+            "link": "https://youtu.be/wjqIxkCW3l4",
+            "percent": 100,
+            "hz": 240,
+            "mobile": false
         }
     ]
 }
