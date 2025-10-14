@@ -8,6 +8,11 @@
     "percentToQualify": 100,
     "song": "",
     "records": [
-
+        {
+            "user": "syrcx",
+            "link": "https://youtu.be/gjucK2hzl1g?si=6kVunoTZ45mielmt",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
