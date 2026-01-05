@@ -8,6 +8,11 @@
     "percentToQualify": 100,
     "song": "Waterflame - Time Machine",
     "records": [
+        {
+            "user": "DanielTmog",
+            "link": "https://youtu.be/gu6kfFRGRFw?si=sMIIGDU1DHWIUAae",
+            "percent": 100
+        }
 
     ]
 }
