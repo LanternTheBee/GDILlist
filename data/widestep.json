@@ -8,6 +8,11 @@
     "percentToQualify": 100,
     "song": "AeronMusic - Sidestep",
     "records": [
+        {
+            "user": "ByteLaw",
+            "link": "https://youtu.be/v-CdZRmfpvY?si=EjW3ODKszJ3yCNVT",
+            "percent": 100
+        }
 
     ]
 }
