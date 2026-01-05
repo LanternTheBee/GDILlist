@@ -8,5 +8,15 @@
     "percentToQualify": 66,
     "password": "Not Copyable",
     "records": [
+        {
+            "user": "Syrcx",
+            "link": "https://youtu.be/AcUglqD8Cxo?si=KwgmGjW3VS1isrZI",
+            "percent": 100
+        },
+        {
+            "user": "ByteLaw",
+            "link": "https://youtu.be/dB8WHNSMirg?si=995ZYIj-pbbT0_5W",
+            "percent": 100
+        }
     ]
 }
