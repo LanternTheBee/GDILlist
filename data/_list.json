@@ -32,8 +32,9 @@
     "shukketsu",
     "CriticalHeat",
 	"theParoxysmOfRage",
-    "aerialGleam",
-    "bloodEcho",
+    "BloodEcho",
+    "AerialGleam",
+    "timeLapse",
     "trueffet",
     "kenos",
     "fragile",
@@ -72,6 +73,5 @@
     "akashicRecords",
     "lucidNightmares",
     "cobwebs",
-    "ruthless",
-    "coralCave"
+    "ruthless"
 ]
