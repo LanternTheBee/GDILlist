@@ -8,6 +8,10 @@
     "percentToQualify": 100,
     "song": "False Noise - Shiver",
     "records": [
-
+        {
+            "user": "Duv",
+            "link": "https://youtu.be/0AOX_G1q62Y?si=qUG5amZlNGj-DPYz",
+            "percent": 100,
+        }
     ]
 }
