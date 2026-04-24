@@ -8,5 +8,10 @@
     "percentToQualify": 100,
     "song": "Creo - Sphere",
     "records": [
+        {
+            "user": "itorio",
+            "link": "https://youtu.be/m3CR-D9cDwI?si=GNq7PELLdEqo1ipt",
+            "percent": 100
+        }
     ]
 }
