@@ -8,6 +8,10 @@
     "percentToQualify": 100,
     "song": "Creo - Carnivores",
     "records": [
-
+        {
+            "user": "thekoshka",
+            "link": "https://www.youtube.com/watch?v=_45UlSaup5E",
+            "percent": 100
+        }
     ]
 }
