@@ -11,7 +11,8 @@
         {
             "user": "thekoshka",
             "link": "https://www.youtube.com/watch?v=_45UlSaup5E",
-            "percent": 100
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
