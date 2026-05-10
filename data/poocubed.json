@@ -8,5 +8,12 @@
     "percentToQualify": 66,
     "password": "Not Copyable",
     "records": [
+		{
+            "user": "ByteLaw",
+            "link": "https://youtu.be/v82W6ZqXC4Q",
+            "percent": 100,
+            "hz": 240,
+            "mobile": false
+        }
     ]
 }
