@@ -8,6 +8,11 @@
     "percentToQualify": 100,
     "song": "xKore - Showdown",
     "records": [
-
+        {
+            "user": "Syrcx",
+            "link": "https://youtu.be/iLgI0qLfRLU?si=tGKWPiiiqUgSnXvS",
+            "percent": 100
+        }
+        
     ]
 }
