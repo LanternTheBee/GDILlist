@@ -45,6 +45,7 @@
     "verdantLandscape",
     "unknown",
     "shukketsu",
+    "checkedSteam",
     "CriticalHeat",
     "paranoia",
 	"theParoxysmOfRage",
@@ -72,6 +73,5 @@
     "coldSweat",
     "frostSpirit",
     "ascent",
-    "promethean",
-    "thinkingSpace"
+    "promethean"
 ]
