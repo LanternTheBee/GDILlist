@@ -45,6 +45,7 @@
     "network",
     "verdantLandscape",
     "unknown",
+    "rockbottom",
     "shukketsu",
     "checkedSteam",
     "CriticalHeat",
@@ -72,6 +73,5 @@
     "widestep",
     "lithium",
     "keres",
-    "coldSweat",
-    "frostSpirit"
+    "coldSweat"
 ]
