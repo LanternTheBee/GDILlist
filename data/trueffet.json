@@ -8,5 +8,10 @@
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
+        {
+            "user": "Lexy",
+            "link": "https://www.youtube.com/watch?v=S0wqoEyAiDU",
+            "percent": 10
+        }
     ]
 }
