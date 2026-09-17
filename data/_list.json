@@ -52,6 +52,7 @@
     "terminalRampancy",
     "verdantLandscape",
     "unknown",
+    "atomicCannonMkIII",
     "shukketsu",
     "checkedSteam",
     "CriticalHeat",
@@ -97,6 +98,5 @@
     "atomicCannonMkII",
     "axiomAsterism",
     "cognition",
-    "cosmicCyclone",
-    "qoueo"
+    "cosmicCyclone"
 ]
