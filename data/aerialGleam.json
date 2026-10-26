@@ -8,6 +8,11 @@
     "percentToQualify": 100,
     "song": "Flo Rida - I Cry (NIGHTkilla remix)",
     "records": [
+        {
+            "user": "ByteLaw",
+            "link": "https://youtu.be/PXH-euiJxTA?si=IoS09R_LSaHgy8Ac",
+            "percent": 100
+        }
 
     ]
 }
